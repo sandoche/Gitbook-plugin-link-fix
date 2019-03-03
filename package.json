@@ -1,6 +1,6 @@
 {
   "name": "gitbook-plugin-link-fix",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A gitbook plugin to fix the problem with links by adding a slash at the end",
   "engines": {
     "gitbook": ">1.x.x"
