@@ -6,7 +6,7 @@
     "gitbook": ">1.x.x"
   },
   "gitbook": {
-      "properties": {}
+    "properties": {}
   },
   "main": "index.js",
   "scripts": {
@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/sandoche/Gitbook-plugin-link-fix/issues"
   },
-  "homepage": "https://github.com/sandoche/Gitbook-plugin-link-fix#readme"
+  "homepage": "https://github.com/sandoche/Gitbook-plugin-link-fix#readme",
+  "dependencies": {
+    "replace-in-file": "^3.4.3"
+  }
 }
