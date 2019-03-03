@@ -1,0 +1,30 @@
+{
+  "name": "gitbook-plugin-link-fix",
+  "version": "1.0.0",
+  "description": "A gitbook plugin to fix the problem with links by adding a slash at the end",
+  "engines": {
+    "gitbook": ">1.x.x"
+  },
+  "gitbook": {
+      "properties": {}
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandoche/Gitbook-plugin-link-fix.git"
+  },
+  "keywords": [
+    "gitbook",
+    "link",
+    "fix"
+  ],
+  "author": "Sandoche ADITTANE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sandoche/Gitbook-plugin-link-fix/issues"
+  },
+  "homepage": "https://github.com/sandoche/Gitbook-plugin-link-fix#readme"
+}
